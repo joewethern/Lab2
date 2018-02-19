@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    //These lines make the array of devices
+    <string-array name="array_device">
+        <item>Device1</item>
+        <item>Device2</item>
+        <item>Device3</item>
+        <item>Device4</item>
+        <item>Device5</item>
+        <item>Device6</item>
+        <item>Device7</item>
+        <item>Device8</item>
+        <item>Device9</item>
+        <item>Device10</item>
+        <item>Device11</item>
+        <item>Device12</item>
+        <item>Device13</item>
+        <item>Device14</item>
+        <item>Device15</item>
+        <item>Device16</item>
+        <item>Device17</item>
+        <item>Device18</item>
+        <item>Device19</item>
+        <item>Device20</item>
+        <item>Device21</item>
+
+    </string-array>
+    <string name="title_activity_device">DeviceActivity</string>
+    <string name="title_activity_mitigation">MitigationActivity</string>
+</resources>
